@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Finkclear.net%2Fgif-banners&psig=AOvVaw1e6PyB9hgOL2hC7RrqYXOq&ust=1674548976891000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJjl9Jmj3fwCFQAAAAAdAAAAABAE)]
+[![MasterHead](https://cdn.dribbble.com/users/2319164/screenshots/5805618/upload_dribbble-800x600.png?compress=1&resize=400x300)]
 <h1 align="center">Hi 👋, I'm Harshul Sharma</h1>
 <h3 align="center">Active programmer trying to grasp everything within reach</h3>
 
