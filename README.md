@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/2319164/screenshots/5805618/upload_dribbble-800x600.png?compress=1&resize=400x300)]
+[![MasterHead](https://ibb.co/rygfb4J)]
 <h1 align="center">Hi 👋, I'm Harshul Sharma</h1>
 <h3 align="center">Active programmer trying to grasp everything within reach</h3>
 
